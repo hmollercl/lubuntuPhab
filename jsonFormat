@@ -1,0 +1,16 @@
+[
+  {
+    "type": "title",
+    "value": "Assemble in the barnyard"
+  },
+  {
+    "type": "description",
+    "value": "All animals should assemble in the barnyard promptly."
+  },
+  {
+    "type": "subscribers.add",
+    "value": ["dog", "cat", "mouse"]
+  }
+]
+
+
